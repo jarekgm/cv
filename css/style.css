@@ -107,24 +107,13 @@ span{
 
 .skills{
   margin-top: 15px;
+  display: flex;
+  justify-content:space-around;
 }
 
 figcaption{
   text-align: center;
-}
-
-.skill{
-  display: flex;
-    justify-content:center;
-}
-
-figure .img_figure{
-  position: relative;
-}
-
-figure .img_figure img{
-  position: absolute;
-  margin: auto;
+  font-size: 14px;
 }
 
 .logo{
